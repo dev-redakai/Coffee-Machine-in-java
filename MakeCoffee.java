@@ -9,6 +9,9 @@ import java.util.Scanner;
 /**
  *
  * @author red-akai
+ * Manikant Goutam
+ * manikantguatam3@gmail.com
+ *
  */
 class CoffeeMachine { 
     static Scanner scan = new Scanner(System.in);
