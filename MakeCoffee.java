@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author red-akai
  * Manikant Goutam
- * manikantguatam3@gmail.com
+ * manikantgautam3@gmail.com
  *
  */
 class CoffeeMachine { 
